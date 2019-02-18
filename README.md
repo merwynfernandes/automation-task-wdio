@@ -26,7 +26,9 @@ To trigger the automated tests, use the below command:
 ```
 npm test
 ```
-To generate the report from existing Allure results you can use the following command:
+Console output can be viewed to check the progress of each test case execution.
+
+#To generate the report from existing Allure results you can use the following command:
 ```
 $ allure generate <directory-with-results> --clean
 ```
