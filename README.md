@@ -28,7 +28,7 @@ npm test
 ```
 Console output can be viewed to check the progress of each test case execution.
 
-#To generate the report from existing Allure results you can use the following command:
+## To generate the report from existing Allure results after test execution is completed, use the following command:
 ```
 $ allure generate <directory-with-results> --clean
 ```
