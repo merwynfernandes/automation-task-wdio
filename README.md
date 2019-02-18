@@ -1,5 +1,5 @@
 ## HeyJobs test automation task submission
-To run the React/Redux AUT you can use npm as follows:
+As a first step, run the React/Redux AUT. For this you can use npm as follows:
 
 
 
@@ -16,6 +16,7 @@ Once the server is listening port 3333, run the below automation . wdio  has bee
 *Users can navigate back from a job details page to the job list
 *Users see error message when they visit an unknown URL e.g. http://localhost:3333/foo
 
+The first 3 scenarios have been grouped as separate Test Suites. The last scenario has been checked on every page a user views since it can be encountered at any point of the user's navigation.
 
 Mocha framework has been used along with chai assertions to make the test readible and user friendly.
 Allure report has been used to generate test report once executed.
@@ -33,3 +34,4 @@ To open the report, use the below command:
 ```
 $ allure open
 ```
+Relevant Test Suites can be checked to view results of pass/fail for individual test case
