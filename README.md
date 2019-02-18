@@ -32,6 +32,7 @@ Console output can be viewed to check the progress of each test case execution.
 ```
 $ allure generate <directory-with-results> --clean
 ```
+Example: allure generate E:/automation-task-wdio/reports/allure-results --clean
 To open the report, use the below command:
 ```
 $ allure open
