@@ -1,0 +1,57 @@
+{
+  "uid" : "518a9ebd83804eb8",
+  "name" : " User Should be able to navigate back to home page from the second job",
+  "fullName" : "Test HeyJobs Navigation from Job Details page to Home page. User Should be able to navigate back to home page from the second job",
+  "historyId" : "62d8706a3259c4ee4922a666b9c4b9f1",
+  "time" : {
+    "start" : 1550446286428,
+    "stop" : 1550446287175,
+    "duration" : 747
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Test HeyJobs Navigation from Job Details page to Home page"
+  }, {
+    "name" : "testClass",
+    "value" : "Test HeyJobs Navigation from Job Details page to Home page"
+  }, {
+    "name" : "testMethod",
+    "value" : " User Should be able to navigate back to home page from the second job"
+  }, {
+    "name" : "package",
+    "value" : "Test HeyJobs Navigation from Job Details page to Home page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "518a9ebd83804eb8.json",
+  "parameterValues" : [ "chrome" ]
+}

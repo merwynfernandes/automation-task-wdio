@@ -1,0 +1,87 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1550446258964' stop='1550446271978'>
+    <name>Test HeyJobs Details on the Home Page</name>
+    <title>Test HeyJobs Details on the Home Page</title>
+    <test-cases>
+        <test-case start='1550446258965' status='passed' stop='1550446261522'>
+            <name>Should be able to view the Image, Company Name and Company Location for first job</name>
+            <title>Should be able to view the Image, Company Name and Company Location for first job</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+                <parameter kind='environment-variable' name='capabilities' value='{"maxInstances":5,"browserName":"chrome"}'/>
+                <parameter kind='environment-variable' name='spec files' value='["E:\\automation-test-task-master\\tests\\heyJobsHomeTest.js"]'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1550446263167' status='passed' stop='1550446263703'>
+            <name> Should be able to view the Image, Company Name and Company Location for second job</name>
+            <title> Should be able to view the Image, Company Name and Company Location for second job</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+                <parameter kind='environment-variable' name='capabilities' value='{"maxInstances":5,"browserName":"chrome"}'/>
+                <parameter kind='environment-variable' name='spec files' value='["E:\\automation-test-task-master\\tests\\heyJobsHomeTest.js"]'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1550446265083' status='passed' stop='1550446265573'>
+            <name> Should be able to view the Image, Company Name and Company Location for third job</name>
+            <title> Should be able to view the Image, Company Name and Company Location for third job</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+                <parameter kind='environment-variable' name='capabilities' value='{"maxInstances":5,"browserName":"chrome"}'/>
+                <parameter kind='environment-variable' name='spec files' value='["E:\\automation-test-task-master\\tests\\heyJobsHomeTest.js"]'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1550446267140' status='passed' stop='1550446267708'>
+            <name> Should be able to view the Image, Company Name and Company Location for fourth job</name>
+            <title> Should be able to view the Image, Company Name and Company Location for fourth job</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+                <parameter kind='environment-variable' name='capabilities' value='{"maxInstances":5,"browserName":"chrome"}'/>
+                <parameter kind='environment-variable' name='spec files' value='["E:\\automation-test-task-master\\tests\\heyJobsHomeTest.js"]'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1550446269643' status='passed' stop='1550446270364'>
+            <name> Should be able to view the Image, Company Name and Company Location for fifth job</name>
+            <title> Should be able to view the Image, Company Name and Company Location for fifth job</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+                <parameter kind='environment-variable' name='capabilities' value='{"maxInstances":5,"browserName":"chrome"}'/>
+                <parameter kind='environment-variable' name='spec files' value='["E:\\automation-test-task-master\\tests\\heyJobsHomeTest.js"]'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

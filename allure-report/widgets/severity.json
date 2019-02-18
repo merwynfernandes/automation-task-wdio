@@ -1,0 +1,151 @@
+[ {
+  "uid" : "f99f21c29d0154be",
+  "name" : " User Should be able to navigate back to home page from the fifth job",
+  "time" : {
+    "start" : 1550446293669,
+    "stop" : 1550446294542,
+    "duration" : 873
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "518a9ebd83804eb8",
+  "name" : " User Should be able to navigate back to home page from the second job",
+  "time" : {
+    "start" : 1550446286428,
+    "stop" : 1550446287175,
+    "duration" : 747
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5da39739f05dc859",
+  "name" : " Should be able to view the Image, Company Name and Company Location for fifth job",
+  "time" : {
+    "start" : 1550446269643,
+    "stop" : 1550446270364,
+    "duration" : 721
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e9190dd36c23d4e",
+  "name" : " User Should be able to navigate back to home page from the first job",
+  "time" : {
+    "start" : 1550446283359,
+    "stop" : 1550446284418,
+    "duration" : 1059
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "649ecb6fa939e556",
+  "name" : "Should be able to view the Image, Company Name and Company Location for first job",
+  "time" : {
+    "start" : 1550446258965,
+    "stop" : 1550446261522,
+    "duration" : 2557
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "849ba74fae346fe4",
+  "name" : " Should be able to view the Image, Company Name and Company Location for second job",
+  "time" : {
+    "start" : 1550446263167,
+    "stop" : 1550446263703,
+    "duration" : 536
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fb39d04b27740843",
+  "name" : " Should be able to view the Image, Company Name and Company Location for third job",
+  "time" : {
+    "start" : 1550446265083,
+    "stop" : 1550446265573,
+    "duration" : 490
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "62541f4d68423638",
+  "name" : " User Should be able to navigate back to home page from the fourth job",
+  "time" : {
+    "start" : 1550446291397,
+    "stop" : 1550446292100,
+    "duration" : 703
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f371d16feb21a6fb",
+  "name" : " User Should be able to view job details for the second job",
+  "time" : {
+    "start" : 1550446274719,
+    "stop" : 1550446275695,
+    "duration" : 976
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bfa5c57d6e47baef",
+  "name" : " User Should be able to view job details for the third job",
+  "time" : {
+    "start" : 1550446276733,
+    "stop" : 1550446277645,
+    "duration" : 912
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "528bcb82019e0852",
+  "name" : " Should be able to view the Image, Company Name and Company Location for fourth job",
+  "time" : {
+    "start" : 1550446267140,
+    "stop" : 1550446267708,
+    "duration" : 568
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f330ad37fc62e476",
+  "name" : " User Should be able to view job details for the fourth job",
+  "time" : {
+    "start" : 1550446278842,
+    "stop" : 1550446279944,
+    "duration" : 1102
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3215ce8254f71115",
+  "name" : " User Should be able to view job details for the fifth job",
+  "time" : {
+    "start" : 1550446280897,
+    "stop" : 1550446281916,
+    "duration" : 1019
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5f99b963b2f716e3",
+  "name" : " User Should be able to view job details for the first job",
+  "time" : {
+    "start" : 1550446272032,
+    "stop" : 1550446273150,
+    "duration" : 1118
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a4a34ae1426240d7",
+  "name" : " User Should be able to navigate back to home page from the third job",
+  "time" : {
+    "start" : 1550446289288,
+    "stop" : 1550446290053,
+    "duration" : 765
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

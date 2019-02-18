@@ -1,0 +1,87 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1550446283359' stop='1550446296564'>
+    <name>Test HeyJobs Navigation from Job Details page to Home page</name>
+    <title>Test HeyJobs Navigation from Job Details page to Home page</title>
+    <test-cases>
+        <test-case start='1550446283359' status='passed' stop='1550446284418'>
+            <name> User Should be able to navigate back to home page from the first job</name>
+            <title> User Should be able to navigate back to home page from the first job</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+                <parameter kind='environment-variable' name='capabilities' value='{"maxInstances":5,"browserName":"chrome"}'/>
+                <parameter kind='environment-variable' name='spec files' value='["E:\\automation-test-task-master\\tests\\heyJobsHomeTest.js"]'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1550446286428' status='passed' stop='1550446287175'>
+            <name> User Should be able to navigate back to home page from the second job</name>
+            <title> User Should be able to navigate back to home page from the second job</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+                <parameter kind='environment-variable' name='capabilities' value='{"maxInstances":5,"browserName":"chrome"}'/>
+                <parameter kind='environment-variable' name='spec files' value='["E:\\automation-test-task-master\\tests\\heyJobsHomeTest.js"]'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1550446289288' status='passed' stop='1550446290053'>
+            <name> User Should be able to navigate back to home page from the third job</name>
+            <title> User Should be able to navigate back to home page from the third job</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+                <parameter kind='environment-variable' name='capabilities' value='{"maxInstances":5,"browserName":"chrome"}'/>
+                <parameter kind='environment-variable' name='spec files' value='["E:\\automation-test-task-master\\tests\\heyJobsHomeTest.js"]'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1550446291397' status='passed' stop='1550446292100'>
+            <name> User Should be able to navigate back to home page from the fourth job</name>
+            <title> User Should be able to navigate back to home page from the fourth job</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+                <parameter kind='environment-variable' name='capabilities' value='{"maxInstances":5,"browserName":"chrome"}'/>
+                <parameter kind='environment-variable' name='spec files' value='["E:\\automation-test-task-master\\tests\\heyJobsHomeTest.js"]'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1550446293669' status='passed' stop='1550446294542'>
+            <name> User Should be able to navigate back to home page from the fifth job</name>
+            <title> User Should be able to navigate back to home page from the fifth job</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+                <parameter kind='environment-variable' name='capabilities' value='{"maxInstances":5,"browserName":"chrome"}'/>
+                <parameter kind='environment-variable' name='spec files' value='["E:\\automation-test-task-master\\tests\\heyJobsHomeTest.js"]'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

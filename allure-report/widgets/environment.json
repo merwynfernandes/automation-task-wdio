@@ -1,0 +1,7 @@
+[ {
+  "values" : [ "{\"maxInstances\":5,\"browserName\":\"chrome\"}" ],
+  "name" : "capabilities"
+}, {
+  "values" : [ "[\"E:\\\\automation-test-task-master\\\\tests\\\\heyJobsHomeTest.js\"]" ],
+  "name" : "spec files"
+} ]

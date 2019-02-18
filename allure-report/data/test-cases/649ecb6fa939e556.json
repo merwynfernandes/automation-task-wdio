@@ -1,0 +1,57 @@
+{
+  "uid" : "649ecb6fa939e556",
+  "name" : "Should be able to view the Image, Company Name and Company Location for first job",
+  "fullName" : "Test HeyJobs Details on the Home Page.Should be able to view the Image, Company Name and Company Location for first job",
+  "historyId" : "aace13cc2e05e51a503c8df6b72bf23d",
+  "time" : {
+    "start" : 1550446258965,
+    "stop" : 1550446261522,
+    "duration" : 2557
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Test HeyJobs Details on the Home Page"
+  }, {
+    "name" : "testClass",
+    "value" : "Test HeyJobs Details on the Home Page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should be able to view the Image, Company Name and Company Location for first job"
+  }, {
+    "name" : "package",
+    "value" : "Test HeyJobs Details on the Home Page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "649ecb6fa939e556.json",
+  "parameterValues" : [ "chrome" ]
+}

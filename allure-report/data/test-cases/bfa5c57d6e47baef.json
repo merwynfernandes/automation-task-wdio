@@ -1,0 +1,57 @@
+{
+  "uid" : "bfa5c57d6e47baef",
+  "name" : " User Should be able to view job details for the third job",
+  "fullName" : "Test Descriptions for every Job. User Should be able to view job details for the third job",
+  "historyId" : "fcf37e668db63122b37453a5f9c9ecf7",
+  "time" : {
+    "start" : 1550446276733,
+    "stop" : 1550446277645,
+    "duration" : 912
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Test Descriptions for every Job"
+  }, {
+    "name" : "testClass",
+    "value" : "Test Descriptions for every Job"
+  }, {
+    "name" : "testMethod",
+    "value" : " User Should be able to view job details for the third job"
+  }, {
+    "name" : "package",
+    "value" : "Test Descriptions for every Job"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bfa5c57d6e47baef.json",
+  "parameterValues" : [ "chrome" ]
+}
