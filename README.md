@@ -1,4 +1,4 @@
-## HeyJobs test automation task submission
+## Test Automation using webdriverIO
 As a first step, run the React/Redux AUT. For this you can use npm as follows:
 
 
